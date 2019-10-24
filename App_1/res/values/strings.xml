@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="text_userid">User ID</string>
+    <string name="text_longitude">Longitude</string>
+    <string name="text_latitude">Latitude</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="button1">Save to DB</string>
+    <string name="button3">List all</string>
+</resources>
